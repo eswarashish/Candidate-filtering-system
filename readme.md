@@ -15,7 +15,7 @@ And also I have included the results too.. PLEASE DO LOOK INTO THEM.
 https://drive.google.com/file/d/1r2VM2_8bRmT84uNgboQJDjbllnnvpvNR/view?usp=sharing
 
 ## DEMO VIDEO
-<iframe width="2543" height="776" src="https://www.youtube.com/embed/toQveRvp6QA" title="app · Streamlit   Google Chrome 2024 08 06 15 40 08" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<video width="2543" height="776" src="https://www.youtube.com/embed/toQveRvp6QA" title="app · Streamlit   Google Chrome 2024 08 06 15 40 08" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></video>
 
 ## Basic Simple workflow**
 ![alt text](resume.png)
