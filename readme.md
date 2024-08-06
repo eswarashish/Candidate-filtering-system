@@ -2,7 +2,6 @@
 
 
 
-
 ## Streamlit App in Hugging face
 I have provided the resumes and job description that I  have tested in the mentioned folders..
 And also I have included the results too.. PLEASE DO LOOK INTO THEM.
@@ -19,6 +18,9 @@ https://drive.google.com/file/d/1r2VM2_8bRmT84uNgboQJDjbllnnvpvNR/view?usp=shari
 
 ## Basic Simple workflow
 ![alt text](resume.png)
+## Important Notes
+
+I have tried by best to derive the proper json from llms through prompt tecchniques and json converting functions.. If still it gives any ERRORS it would either llm not understanding the instructions or being RATE LIMITED. Thank you.
 
 ## Overview
 Resume Shortlister is a multi-agent AI system designed to analyze resumes, compare them against job descriptions, and identify the best candidates. The system is built using Streamlit for the user interface and LangGraph for state management. It leverages the power of Llama models for natural language processing and OpenAI's API for generating responses.
