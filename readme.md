@@ -31,7 +31,7 @@ Resume Shortlister is a multi-agent AI system designed to analyze resumes, compa
     GROQ_API_KEY=your_groq_api_key
     HELICONE_API_KEY=your_helicone_api_key
     ```
-4. The GROQ is for basic LLM calling where as Helicone helps us to
+4. The GROQ is for basic LLM calling where as HELICONE helps us to look into the analytics of the api call
 ## Usage
 1. Run the Streamlit app:
     ```sh
