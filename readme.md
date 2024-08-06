@@ -15,7 +15,7 @@ And also I have included the results too.. PLEASE DO LOOK INTO THEM.
 https://drive.google.com/file/d/1r2VM2_8bRmT84uNgboQJDjbllnnvpvNR/view?usp=sharing
 
 ## DEMO VIDEO
-<video src="https://youtube.com/watch?v=toQveRvp6QA" title="Title"></video>
+[![Watch the video](https://img.youtube.com/vi/toQveRvp6QA/maxresdefault.jpg)](https://youtube.com/watch?v=toQveRvp6QA)
 
 ## Basic Simple workflow
 ![alt text](resume.png)
